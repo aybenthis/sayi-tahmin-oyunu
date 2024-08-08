@@ -1,5 +1,5 @@
 # sayi-tahmin-oyunu
-"kolay", "orta" ve "zor" modları olan bu oyun, rastgele bir sayı üretecek ve bu sayıyı kullanıcının tahmini ile kıyaslayacak.
+
 Çalıştığımız firma bizden tahminEt adında küçük bir sayı tahmin oyunu yapmamızı istedi: "kolay", "orta" ve "zor" modları olan bu oyun, rastgele bir sayı üretecek ve bu sayıyı kullanıcının tahmini ile kıyaslayacak.
 
 Oyunumuz modu temsil eden bir parametre almalı ve
